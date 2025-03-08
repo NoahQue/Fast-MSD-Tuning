@@ -16,7 +16,7 @@ rdkit >= 2019.03.1.0
 tqdm >= 4.31
 ```
 
-### fine-tuning
+### fast finetuning
 ```bash
 python fastfinetune_sequence.py
 ```
@@ -32,7 +32,10 @@ PyTorch ≥ 1.4.0
 conda install -c conda-forge rdkit=2019.09.2
 ```
 
-
+### fast finetuning
+```bash
+python fastfinetune_sequence.py
+```
 
 
 
