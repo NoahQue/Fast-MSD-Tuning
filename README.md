@@ -30,7 +30,7 @@ Linux with Python ≥ 3.6
 PyTorch ≥ 1.4.0
 0.5 > DGL ≥ 0.4.3
 conda install -c conda-forge rdkit=2019.09.2
-`pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 
 ### fast finetuning
